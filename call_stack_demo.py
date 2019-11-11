@@ -1,5 +1,5 @@
 """
-This code snippet was part of story published on thh link
+This code snippet is part of story published in the link
 https://medium.com/cspackets/and-then-i-understood-recursion-c0775125049f
 
 Name of the program :- call_stack_demo.py
